@@ -1,0 +1,23 @@
+[
+  {
+    "nombre": "Benito",
+    "edad": "2 años",
+    "animal": "perro",
+    "color": "blanco",
+    "enfermedad": "vomitos"
+  },
+  {
+    "nombre": "Aria",
+    "edad": "2 años",
+    "animal": "gato",
+    "color": "gris",
+    "enfermedad": "pulgas"
+  },
+  {
+    "nombre": "Cachupin",
+    "edad": "6 años",
+    "animal": "perro",
+    "color": "amarillo",
+    "enfermedad": "infección"
+  }
+]
